@@ -1,0 +1,27 @@
+{
+  "name": "pokehaskellmon",
+  "version": "1.0.0",
+  "description": "Site about different Pokemons written on Elm",
+  "main": "index.js",
+  "scripts": {
+    "start": "elm-live src/Main.elm --open --dir=public -- --debug --output=public/pokehaskellmon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgusman/PokeHaskellMon.git"
+  },
+  "author": "Kamill Gusmanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgusman/PokeHaskellMon/issues"
+  },
+  "homepage": "https://github.com/kgusman/PokeHaskellMon#readme",
+  "devDependencies": {
+    "elm": "^0.19.0",
+    "elm-live": "^3.2.1",
+    "uglify-js": "^3.5.8"
+  },
+  "dependencies": {
+    "uglifyjs": "^2.4.11"
+  }
+}
