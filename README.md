@@ -11,13 +11,13 @@ Simple project for `Programming in Haskell` course using [open API](https://poke
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/kgusman/kgusman.github.io/blob/master/assets/main.png?raw=true">
+  <img src="https://github.com/kgusman/PokeHaskellMon/blob/master/assets/main.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="https://github.com/kgusman/kgusman.github.io/blob/master/assets/pika.png?raw=true">
+  <img src="https://github.com/kgusman/PokeHaskellMon/blob/master/assets/pika.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="https://github.com/kgusman/kgusman.github.io/blob/master/assets/pikachu.png?raw=true">
+  <img src="https://github.com/kgusman/PokeHaskellMon/blob/master/assets/pikachu.png?raw=true">
 </p>
